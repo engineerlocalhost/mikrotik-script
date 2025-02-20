@@ -1,4 +1,0 @@
-#Netwatch List
-
-/tool netwatch
-add host=172.16.1.2 comment="NAMA PC" interval=1m
